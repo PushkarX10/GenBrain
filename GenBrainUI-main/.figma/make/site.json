@@ -1,0 +1,10 @@
+{
+  "description": "Engage with personalized daily news and general knowledge through interactive flashcards and quizzes, tailored for curious learners seeking quick insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
